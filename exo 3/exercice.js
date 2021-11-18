@@ -5,9 +5,11 @@ let wrongAnswer2 = answers[2];
 
 //Votre code commence ci dessous
 
+rightAnswer.className = 'rightAnswer';
+wrongAnswer1.className = 'wrongAnswer';
+wrongAnswer2.className = 'wrongAnswer';
 
-
-
+console.log(rightAnswer,wrongAnswer1,wrongAnswer2);
 
 
 
